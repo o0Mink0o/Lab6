@@ -31,6 +31,7 @@ void showResult(double result_vec_length,double result_vec_direction){
 
 
 
+
 int main(){
     double l1,l2,a1,a2,xcomp,ycomp,result_vec_length,result_vec_direction;
     cout << "Enter length of the first vector: ";
